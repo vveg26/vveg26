@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Julian 
-- 👀 I’m interested in Qiqi
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on u
+放张图给各位爷开开眼
 ![beauty](/img/beauty.jpg)
 <!---
 azurychu/azurychu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
